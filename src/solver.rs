@@ -1,3 +1,9 @@
+// File: solver.rs
+// Date: 27.12.2022
+// Author: Shivashish Das
+// Purpose: Routines for parsing the expression and solving it
+// License: Check the LICENSE file for details
+
 use std::fmt;
 
 pub enum Answer {

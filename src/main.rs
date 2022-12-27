@@ -1,3 +1,9 @@
+// File: main.rs
+// Date: 27.12.2022
+// Author: Shivashish Das
+// Purpose: Entry point to the program
+// License: Check the LICENSE file for details
+
 use std::io;
 
 mod solver;
